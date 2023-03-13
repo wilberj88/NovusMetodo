@@ -10,3 +10,6 @@ ChatGPT: https://medium.com/@joetrankang/how-i-used-chatgpt-as-a-data-scientist-
 
 HomePages with 3D:
 Lamadev (youtube): React with ThreeJs and Fiber
+
+Ciclo de vida:
+1. Onboarding: Replicar proceso de Shopify (correo y preguntas) u Open AI(solo correo)

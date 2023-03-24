@@ -11,5 +11,8 @@ ChatGPT: https://medium.com/@joetrankang/how-i-used-chatgpt-as-a-data-scientist-
 HomePages with 3D:
 Lamadev (youtube): React with ThreeJs and Fiber
 
+References:
+1) Intellectual Property Strategy - Jhon Palfrey - MIT Press: 1) arrrancar general y luego precisar; 2) Enfoque Interoperabilidad; 3) Para acceder a nuevos mercados, mejorar productos actuales y generar nuevas fuentes de ingresos; 4) Enfoque corto, mediano y largo plazo; 5) Mediante patentes, copyright, trademarks, trade secrets, para consturir propiedad intelectual como activo corporativo, ecosistémico, interoperable y atado al valor de marca; 6) El portafolio de propiedad intelectual puede ser propio, con otros, licenciado por otros, comprando propiedad intelectual o empresas, y para proteger.
+
 Ciclo de vida:
 1. Onboarding: Replicar proceso de Shopify (correo y preguntas) u Open AI(solo correo)

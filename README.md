@@ -10,6 +10,7 @@ ChatGPT: https://medium.com/@joetrankang/how-i-used-chatgpt-as-a-data-scientist-
 
 -) Requierements: https://towardsdatascience.com/python-pipreqs-how-to-create-requirements-txt-file-like-a-sane-person-c82da5d5cd13
 -) Interoperabilidad: SurrealDB: https://www.youtube.com/shorts/Sl8Bj1xR5pY
+-) Introducción al talento: 1)Arquitectura; 2)CodeReview; 3) PairProgramming;4)Testing; 5)Refactorización; 6)Formación https://twitter.com/xurxodev/status/1594997756451770369?s=51&t=Ky7UVZ2dzdSjRkXbcn9PgQ
 
 
 HomePages with 3D:

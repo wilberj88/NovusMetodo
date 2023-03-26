@@ -6,6 +6,8 @@ Bibliografía:
 Metodologies: 
 -)"The Hitchhiker´s Guide to Python - Bests Practices for Development by Reitz & Schlusser": Guia general: Pep8+Pep20. Parámetros por proyecto: 1) Cuál es la lógica; 2) Cuáles son las dependencias; 3) Cuáles son las funciones que deben ir en cada módulo;4) Cómo fluye la data por todo el proyecto; 5) Cuáles características y funciones se pueden agrupar o separar.
 -) Ciclo de vida: "UX Design by Pablo Fernandez Casado": 1) Especificar usuarios, entornos, tareas y metas; 2) Diseñar interacción conceptual y visual; 3) Prototipar maqueteando y probando; 4)Evaluar inspeccionando, indagando y testeando.
+-) "Automate the boring stuff with Python by Al Sweigart": a flowchart by service.
+-) "Practical Recommender Systems by Kim Falk": Components: 1) Prediction System, 2) Relevancy System; 3) Recommendation System; 4) Personalization System; 0) Profiling System. Architectures: page 109. 
 
 Code generation:
 YOU.COM

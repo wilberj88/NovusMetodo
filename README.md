@@ -8,6 +8,7 @@ Metodologies:
 -) Ciclo de vida: "UX Design by Pablo Fernandez Casado": 1) Especificar usuarios, entornos, tareas y metas; 2) Diseñar interacción conceptual y visual; 3) Prototipar maqueteando y probando; 4)Evaluar inspeccionando, indagando y testeando.
 -) "Automate the boring stuff with Python by Al Sweigart": a flowchart by service.
 -) "Practical Recommender Systems by Kim Falk": Components: 1) Prediction System, 2) Relevancy System; 3) Recommendation System; 4) Personalization System; 0) Profiling System. Architectures: page 109. 
+-) Patrones de Diseño: Cursos de Platzi de Introducción.
 
 Code generation:
 YOU.COM

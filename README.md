@@ -1,3 +1,12 @@
+STACKS:
+1) Python-Streamlit:
+2) Python-Flask:
+3) Python-Django: https://medium.com/@etirismagazine/web-development-with-python-and-django-2bc7250c0e36
+4) JavaScript-React:
+5) TypeScript:
+
+
+
 Bibliografía:
 -) Clean Code: Quality Rules + Naming + Spaces + Comments + Documentation: https://levelup.gitconnected.com/learn-how-to-write-python-clean-code-using-these-3-principles-ed046978e39a
 -) Testing: https://link.medium.com/ej54Xcje7xb

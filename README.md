@@ -18,7 +18,10 @@ Metodologies:
 -) Ciclo de vida: "UX Design by Pablo Fernandez Casado": 1) Especificar usuarios, entornos, tareas y metas; 2) Diseñar interacción conceptual y visual; 3) Prototipar maqueteando y probando; 4)Evaluar inspeccionando, indagando y testeando.
 -) "Automate the boring stuff with Python by Al Sweigart": a flowchart by service.
 -) "Practical Recommender Systems by Kim Falk": Components: 1) Prediction System, 2) Relevancy System; 3) Recommendation System; 4) Personalization System; 0) Profiling System. Architectures: page 109. 
--) Patrones de Diseño: Cursos de Platzi de Introducción.
+-) Patrones de Diseño de Software: Cursos de Platzi de Introducción Daniel Basulto. Ahorro de Tiempo + Fiabilidad. Tres Categorias de Patrones: 1) Creacionales, 2) Estructuras, 3) Comportamiento. La Programación Orientada a Objetos permite la plena materialización de los beneficios de los Patrones de Diseño. UML: Unified Model Language: diagrama que modela procesos de manera unificada: clase>propiedades>métodos; +publico,-privado; relaciones de 1) Dependencia, 2) Asociación, 3) Implementación, 4) Herencia, 5) Agregación, 6) Composición. Herramientas: Mermaid para UMLhttps://mermaid.js.org/intro/.
+-) Patrones de Diseño Creacionales (en JavaScript): Creación e Instanciación de nuevos objetos. Patrones: 1) Singleton, 2)Factory, 3) Abstract factory, 4) Builder, 5) Prototype.
+-) Patrones de Diseño Estructurales (en JavaScript):
+-) Patrones de Diseño Comportamiento (en JavaScript):
 
 Code generation:
 YOU.COM

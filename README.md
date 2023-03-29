@@ -14,6 +14,8 @@ Code generation:
 YOU.COM
 https://medium.com/data-driven-fiction/you-com-ai-is-the-new-google-chatgpt-midjourney-and-code-writer-combined-3b12b49bfc98
 ChatGPT: https://medium.com/@joetrankang/how-i-used-chatgpt-as-a-data-scientist-92edb579ca83 as an assistant to help me at work as a data scientist. Generate hypothesis Build a data science portfolio SQL coaching Convert Python to other languages and vice versa Create visualisations in seconds Optimise codes for speed and memory Communicate with non-technical folks
+https://medium.com/@alexandre.tkint/i-got-gpt-4-access-harness-the-power-of-gpt-4-a-comprehensive-guide-to-using-its-api-with-python-7f885e61baad
+
 
 -) Requierements: https://towardsdatascience.com/python-pipreqs-how-to-create-requirements-txt-file-like-a-sane-person-c82da5d5cd13
 -) Interoperabilidad: SurrealDB: https://www.youtube.com/shorts/Sl8Bj1xR5pY

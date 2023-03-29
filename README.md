@@ -11,6 +11,7 @@ Bibliografía:
 -) Clean Code: Quality Rules + Naming + Spaces + Comments + Documentation: https://levelup.gitconnected.com/learn-how-to-write-python-clean-code-using-these-3-principles-ed046978e39a
 -) Testing: https://link.medium.com/ej54Xcje7xb
 -) Intellectual Property Strategy - Jhon Palfrey - MIT Press: 1) arrrancar general y luego precisar; 2) Enfoque Interoperabilidad; 3) Para acceder a nuevos mercados, mejorar productos actuales y generar nuevas fuentes de ingresos; 4) Enfoque corto, mediano y largo plazo; 5) Mediante patentes, copyright, trademarks, trade secrets, para consturir propiedad intelectual como activo corporativo, ecosistémico, interoperable y atado al valor de marca; 6) El portafolio de propiedad intelectual puede ser propio, con otros, licenciado por otros, comprando propiedad intelectual o empresas, y para proteger.
+-) Documentation: https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542
 
 Metodologies: 
 -)"The Hitchhiker´s Guide to Python - Bests Practices for Development by Reitz & Schlusser": Guia general: Pep8+Pep20. Parámetros por proyecto: 1) Cuál es la lógica; 2) Cuáles son las dependencias; 3) Cuáles son las funciones que deben ir en cada módulo;4) Cómo fluye la data por todo el proyecto; 5) Cuáles características y funciones se pueden agrupar o separar.

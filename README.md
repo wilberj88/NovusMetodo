@@ -19,7 +19,7 @@ Metodologies:
 -) "Automate the boring stuff with Python by Al Sweigart": a flowchart by service.
 -) "Practical Recommender Systems by Kim Falk": Components: 1) Prediction System, 2) Relevancy System; 3) Recommendation System; 4) Personalization System; 0) Profiling System. Architectures: page 109. 
 -) Patrones de Diseño de Software: Cursos de Platzi de Introducción Daniel Basulto. Ahorro de Tiempo + Fiabilidad. Tres Categorias de Patrones: 1) Creacionales, 2) Estructuras, 3) Comportamiento. La Programación Orientada a Objetos permite la plena materialización de los beneficios de los Patrones de Diseño. UML: Unified Model Language: diagrama que modela procesos de manera unificada: clase>propiedades>métodos; +publico,-privado; relaciones de 1) Dependencia, 2) Asociación, 3) Implementación, 4) Herencia, 5) Agregación, 6) Composición. Herramientas: Mermaid para UMLhttps://mermaid.js.org/intro/.
--) Patrones de Diseño Creacionales (en JavaScript): Creación e Instanciación de nuevos objetos. Patrones: 1) Singleton, 2)Factory, 3) Abstract factory, 4) Builder, 5) Prototype.
+-) Patrones de Diseño Creacionales (en JavaScript): Creación e Instanciación de nuevos objetos. Patrones: 1) Singleton (se hace privado el constructor que es llamado por un método estático -getInstance()- para guardar una variable estática que funciona como caché guardada para accederla, no más de una instancia de un objeto, un único punto de acceso global de la instancia ante distintos) (Cómo implementar Singlenton: https://static.platzi.com/media/public/uploads/singleton_01b6f9eb-a898-4b85-bd2c-1172cfeff98d.js), 2)Factory, 3) Abstract factory, 4) Builder, 5) Prototype.
 -) Patrones de Diseño Estructurales (en JavaScript):
 -) Patrones de Diseño Comportamiento (en JavaScript):
 

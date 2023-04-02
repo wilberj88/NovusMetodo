@@ -15,12 +15,19 @@ Bibliografía:
 
 Metodologies: 
 -)"The Hitchhiker´s Guide to Python - Bests Practices for Development by Reitz & Schlusser": Guia general: Pep8+Pep20. Parámetros por proyecto: 1) Cuál es la lógica; 2) Cuáles son las dependencias; 3) Cuáles son las funciones que deben ir en cada módulo;4) Cómo fluye la data por todo el proyecto; 5) Cuáles características y funciones se pueden agrupar o separar.
+
 -) Ciclo de vida: "UX Design by Pablo Fernandez Casado": 1) Especificar usuarios, entornos, tareas y metas; 2) Diseñar interacción conceptual y visual; 3) Prototipar maqueteando y probando; 4)Evaluar inspeccionando, indagando y testeando.
+
 -) "Automate the boring stuff with Python by Al Sweigart": a flowchart by service.
+
 -) "Practical Recommender Systems by Kim Falk": Components: 1) Prediction System, 2) Relevancy System; 3) Recommendation System; 4) Personalization System; 0) Profiling System. Architectures: page 109. 
+
 -) Patrones de Diseño de Software: Cursos de Platzi de Introducción Daniel Basulto. Ahorro de Tiempo + Fiabilidad. Tres Categorias de Patrones: 1) Creacionales, 2) Estructuras, 3) Comportamiento. La Programación Orientada a Objetos permite la plena materialización de los beneficios de los Patrones de Diseño. UML: Unified Model Language: diagrama que modela procesos de manera unificada: clase>propiedades>métodos; +publico,-privado; relaciones de 1) Dependencia, 2) Asociación, 3) Implementación, 4) Herencia, 5) Agregación, 6) Composición. Herramientas: Mermaid para UMLhttps://mermaid.js.org/intro/.
--) Patrones de Diseño Creacionales (en JavaScript): Creación e Instanciación de nuevos objetos. Patrones: 1) Singleton (se hace privado el constructor que es llamado por un método estático -getInstance()- para guardar una variable estática que funciona como caché guardada para accederla, no más de una instancia de un objeto, un único punto de acceso global de la instancia ante distintos) (Cómo implementar Singlenton: https://static.platzi.com/media/public/uploads/singleton_01b6f9eb-a898-4b85-bd2c-1172cfeff98d.js) (Pro -Certeza de que solo existe una instancia, con un punto único de acceso global y que se inicializa solo cuando se requiere- y Contra: vulnera el principio de responsabilidad única, complejo en ambientes múltiples y en las pruebas unitarias) (TypeScript sí se pueden usar la palabra private y es en general más recomendado usar Typescript pero igual funciona en JS), 2)Factory (superclase fábrica: método de creación de productos), 3) Abstract factory, 4) Builder, 5) Prototype.
+
+-) Patrones de Diseño Creacionales (en JavaScript): Creación e Instanciación de nuevos objetos. Patrones: 1) Singleton (se hace privado el constructor que es llamado por un método estático -getInstance()- para guardar una variable estática que funciona como caché guardada para accederla, no más de una instancia de un objeto, un único punto de acceso global de la instancia ante distintos) (Cómo implementar Singlenton: https://static.platzi.com/media/public/uploads/singleton_01b6f9eb-a898-4b85-bd2c-1172cfeff98d.js) (Pro -Certeza de que solo existe una instancia, con un punto único de acceso global y que se inicializa solo cuando se requiere- y Contra: vulnera el principio de responsabilidad única, complejo en ambientes múltiples y en las pruebas unitarias) (TypeScript sí se pueden usar la palabra private y es en general más recomendado usar Typescript pero igual funciona en JS), 2)Factory (superclase fábrica: método de creación de productos https://static.platzi.com/media/public/uploads/factory_aa832fc7-4b08-47a0-af55-f1692302d45f.js), 3) Abstract factory, 4) Builder, 5) Prototype.
+
 -) Patrones de Diseño Estructurales (en JavaScript):
+
 -) Patrones de Diseño Comportamiento (en JavaScript):
 
 Code generation:

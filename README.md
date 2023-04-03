@@ -54,3 +54,8 @@ References:
 
 Ciclo de vida:
 1. Onboarding: Replicar proceso de Shopify (correo y preguntas) u Open AI(solo correo)
+
+Comentarios al Código
+1) Propósito y etapas
+2) Etapa por etapa
+

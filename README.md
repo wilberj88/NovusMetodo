@@ -59,3 +59,11 @@ Comentarios al Código
 1) Propósito y etapas
 2) Etapa por etapa
 
+
+Sam Altman Tips:
+Why: producto que la gente ame. Focus+Intense. No Next week: next 4 hours.
+How: Tech Strategy + Commercial-Growth Strategy
+Who: good team, best parnerts in the world. Hire well, fire better. Control cost is a must. Be frugal.
+
+
+

@@ -53,6 +53,7 @@ Lamadev (youtube): React with ThreeJs and Fiber
 
 References:
 1) copilotX: para documentacion 
+2) Open Source: exam Twitter Case
 
 Ciclo de vida:
 1. Onboarding: Replicar proceso de Shopify (correo y preguntas) u Open AI(solo correo)

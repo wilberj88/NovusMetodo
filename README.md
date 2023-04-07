@@ -30,7 +30,7 @@ Metodologies:
 -) Patrones de Diseño Estructurales (en JavaScript):
 -) Patrones de Diseño Comportamiento (en JavaScript):
 
--) RPA: Curso Platzi RPA con UiPath.
+-) RPA: Curso Platzi RPA con UiPath. Reglas: i) Entradas digitales; ii) Proceso estandarizado; iii) Proceso con reglas de negocio definidas, iv) Tareas repetitivas que Consumen mucho tiempo. ROLES (https://platzi.com/clases/1921-uipath/28834-quienes-participan-en-un-proyecto-rpa/)
 
 
 

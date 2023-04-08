@@ -32,7 +32,7 @@ Metodologies:
 
 -) RPA: Curso Platzi RPA con UiPath. Reglas: i) Entradas digitales; ii) Proceso estandarizado; iii) Proceso con reglas de negocio definidas, iv) Tareas repetitivas que Consumen mucho tiempo. ROLES (https://platzi.com/clases/1921-uipath/28834-quienes-participan-en-un-proyecto-rpa/)
 
-
+-) Front con TypeScript + React + TwailwindCSS con NextJS: https://platzi.com/clases/5481-react-typescript/57806-creando-una-app-con-react-y-typescript/ 
 
 Code generation:
 YOU.COM

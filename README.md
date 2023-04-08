@@ -3,7 +3,7 @@ STACKS:
 2) Python-Flask:
 3) Python-Django: https://medium.com/@etirismagazine/web-development-with-python-and-django-2bc7250c0e36
 4) JavaScript-React:
-5) TypeScript:
+5) Front: React con TypeScript: https://platzi.com/clases/5481-react-typescript/57804-el-presente-del-frontend-es-typescript/
 6) Python - Tkinker (Youtube: the ultimate introduction to modern GUIs in Python - Clear Code)
 
 

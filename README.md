@@ -2,7 +2,7 @@ STACKS:
 1) Python-Streamlit:
 2) Python-Flask:
 3) Python-Django: https://medium.com/@etirismagazine/web-development-with-python-and-django-2bc7250c0e36
-4) JavaScript-React:
+4) JavaScript-React-ThreeJS:
 5) Front: React con TypeScript en NextJS:https://github.com/jonalvarezz/platzi-react-typescript
 6) Python - Tkinker (Youtube: the ultimate introduction to modern GUIs in Python - Clear Code)
 

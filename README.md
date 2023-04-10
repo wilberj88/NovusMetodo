@@ -57,6 +57,9 @@ References:
 1) copilotX: para documentacion 
 2) Open Source: exam Twitter Case
 
+Sales:
+tools: apollo.io, close.com, pipedrive.com, hunter.io
+
 Ciclo de vida:
 1. Onboarding: Replicar proceso de Shopify (correo y preguntas) u Open AI(solo correo)
 

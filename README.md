@@ -79,3 +79,5 @@ Who: good team, best parnerts in the world. Hire well, fire better. Control cost
 How to Validate OpenAI GPT Model Performance with Text Summarization | by Mark Chen | Apr, 2023 | Towards Data Science
 https://towardsdatascience.com/how-to-validate-openai-gpt-model-performance-with-text-summarization-298978fea764
 
+Generador de páginas web en segundos:
+https://itnext.io/i-built-a-streamlit-app-to-generate-websites-in-seconds-try-it-6cf13eb86192

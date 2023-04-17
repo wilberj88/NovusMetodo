@@ -16,6 +16,8 @@ Bibliografía:
 -) Documentation: https://medium.com/@avra42/how-to-build-a-chatbot-with-chatgpt-api-and-a-conversational-memory-in-python-8d856cda4542
 -) Architecting: https://www.snowflake.com/wp-content/uploads/2021/05/OReilly-Report-Architecting-Data-Intensive-SaaS-Applications.pdf
 -) Project Structure: https://medium.com/@helpedbyanerd/how-to-visualize-your-project-structure-with-python-dd0006819b23
+-) API Best Practices: https://moez-62905.medium.com/demystifying-apis-a-comprehensive-guide-to-application-programming-interfaces-in-python-cd3f7628c4f3
+
 
 Metodologies: 
 -)"The Hitchhiker´s Guide to Python - Bests Practices for Development by Reitz & Schlusser": Guia general: Pep8+Pep20. Parámetros por proyecto: 1) Cuál es la lógica; 2) Cuáles son las dependencias; 3) Cuáles son las funciones que deben ir en cada módulo;4) Cómo fluye la data por todo el proyecto; 5) Cuáles características y funciones se pueden agrupar o separar.

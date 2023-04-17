@@ -7,7 +7,8 @@ STACKS:
 6) Python - Tkinker (Youtube: the ultimate introduction to modern GUIs in Python - Clear Code)
 
 
-
+TOP GUI:
+https://python.plainenglish.io/top-10-python-gui-libraries-for-modern-development-d6f1bb2c3bb7
 
 Bibliografía:
 -) Clean Code: Quality Rules + Naming + Spaces + Comments + Documentation: https://levelup.gitconnected.com/learn-how-to-write-python-clean-code-using-these-3-principles-ed046978e39a

@@ -87,4 +87,4 @@ https://itnext.io/i-built-a-streamlit-app-to-generate-websites-in-seconds-try-it
 
 
 Estructura de Prompts: https://platzi.com/clases/7296-chatgpt/62001-como-hablarle-a-chatgpt-estructura-de-un-prompt/
-Ingredientes: contexto, instrucción, input & output. Tiene que haber mínimo una instrucción, lo demás enriquece.
+Ingredientes: contexto, instrucción, input & output. Tiene que haber mínimo una instrucción, lo demás enriquece. Mejor con audiencia objetivo. Mejor con reafirmar que entendió: "¿Entendiste tu propósito?".

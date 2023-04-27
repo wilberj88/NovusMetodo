@@ -1,5 +1,5 @@
 STACKS:
-1) Python-Streamlit:
+1) Python-Streamlit-Firebase: https://medium.com/@goncalorrc/creating-a-python-game-with-streamlit-and-firebase-c84c8772c706
 2) Python-Flask:
 3) Python-Django: https://medium.com/@etirismagazine/web-development-with-python-and-django-2bc7250c0e36
 4) JavaScript-React-ThreeJS:

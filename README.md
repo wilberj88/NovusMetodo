@@ -91,3 +91,13 @@ Ingredientes: contexto, instrucción, input & output. Tiene que haber mínimo un
 Mejor con reafirmar que entendió: "¿Entendiste tu propósito? - di ok si entendiste tu propósito". Mejor con ejemplos y formatos (tabla, json, csv, xls, mapas mentales con markdown, diagramas en formato Mermaid, outline tipo "Qué-por qué-cómo") de respuesta. Evitar alucionamiento del modelo pasándoles ejemplos de la lógica (Chain of Thought Prompting) para que la replique. 
 Mejor iterando resultados hasta el mejor, diciéndole qué gusta, qué no y qué cambie. 
 ChatGPT Text Summary. Text generation: "actúa como un experto editor de texto". Corrección de estilo: "Moderno, Formal..."
+
+
+
+BRANDING EMOCIONAL:
+1) Ser humanos para conectar. Empatizar desde el propósito. Encuentra propósito (IKIGAI). Novus Solutions: empoderar humanos. Novus Mando: monitorizar lo que empodera humanos.
+2) Empieza por el por qué lo hacemos. Definir la misión. Luego vamos al cómo y luego con el qué. 
+3) Confianza: cumplir la promesa de valor. Coherencia: cumplir con los valores. Dialogar con los públicos.
+4) Definir Target:
+
+

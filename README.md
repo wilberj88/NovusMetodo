@@ -99,8 +99,8 @@ BRANDING EMOCIONAL:
 2) Empieza por el por qué lo hacemos. Definir la misión. Luego vamos al cómo y luego con el qué. 
 3) Confianza: cumplir la promesa de valor. Coherencia: cumplir con los valores. Dialogar con los públicos.
 4) Definir Target: Definirlo permite crear contenido personalizado. Tu vibra atrae a tu tribu.
-5) Mapa de Empatía: ¿Qué piensa y siente el cliente? ¿Qué oye? ¿Qué ve? ¿Qué dice y hace? ¿Cuáles sus dolores y alegrías? ¿Cómo lo harás sentir?
-6) Buyer Persona:
+5) Mapa de Empatía por servicio: ¿Qué piensa y siente el cliente? ¿Qué oye? ¿Qué ve? ¿Qué dice y hace? ¿Cuáles sus dolores y alegrías? ¿Cómo lo harás sentir?
+6) Buyer Persona: conocerlo nos ayudará a humanizar nuestra comunicación.
 
 
 

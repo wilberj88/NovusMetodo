@@ -98,6 +98,9 @@ BRANDING EMOCIONAL:
 1) Ser humanos para conectar. Empatizar desde el propósito. Encuentra propósito (IKIGAI). Novus Solutions: empoderar humanos. Novus Mando: monitorizar lo que empodera humanos.
 2) Empieza por el por qué lo hacemos. Definir la misión. Luego vamos al cómo y luego con el qué. 
 3) Confianza: cumplir la promesa de valor. Coherencia: cumplir con los valores. Dialogar con los públicos.
-4) Definir Target:
+4) Definir Target: Definirlo permite crear contenido personalizado. Tu vibra atrae a tu tribu.
+5) Mapa de Empatía: ¿Qué piensa y siente el cliente? ¿Qué oye? ¿Qué ve? ¿Qué dice y hace? ¿Cuáles sus dolores y alegrías? ¿Cómo lo harás sentir?
+6) Buyer Persona:
+
 
 

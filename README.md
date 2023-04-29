@@ -102,7 +102,16 @@ BRANDING EMOCIONAL:
 5) Mapa de Empatía por servicio: ¿Qué piensa y siente el cliente? ¿Qué oye? ¿Qué ve? ¿Qué dice y hace? ¿Cuáles sus dolores y alegrías? ¿Cómo lo harás sentir?
 6) Buyer Persona: conocerlo nos ayudará a humanizar nuestra comunicación. Demografía. Descripción de su vida. Fuentes de información. Comportamientos de Compra. Ideales o deseos. Miedos o frustraciones. Retos o metas. ¿CÓMO LE AYUDAREMOS COMO MARCA-SERVICIO: definir ikigai y perseguirlo?
 7) La necesidad de nuestros clientes: encontrar productos para tus clientes, no al revés. Mapa de Valor (+alegría y -dolor) Vs Mapa de Empatía 
-8) Desarrollar la personalidad de tu marca: "personas conectan con personas: hazlo humano".
+8) Desarrollar la personalidad de tu marca: "personas conectan con personas: hazlo humano". Atributos de cómo nos comunicamos.
+9) Arquetipos de marca: personalidad de tu marca: cómo habla, cómo actúa, cómo siente y cómo piensa
+a) Marcas motivadas por la libertad: Superar cualquier límite: a.1) Inocente (coca cola), a.2) Sabio(Google), a.3) Explorador (Red Bull)
+b) Marcas motivadas por el ego: dejar una huella en el mundo: b.1) Rebeldes (Virgin), b.2) Mago (Apple), b.3) Héroe (Nike)
+c) Marcas motivadas por lo social: conectar con otros: c.1) Amante (Baileys), c.2) Bufón (Old Spice), c.3) Persona Común (IKEA)
+d) Marcas motivadas por el orden: dar estructura al mundo: d.1) Creador (Lego), d.2) Gobernador (Microsoft), d.3) Cuidador (Unicef)
+10) MANIFIESTO DE MARCA: Por qués; pon a tu público como protagonista; describe cómo los propósitos, los valores y creencias de tu marca impactan en la vida de la gente 
+11) TONO DE VOZ DE MARCA: humaniza comunicación y diferencia de tus competidores. Tono Valiente, Inspiradora y Retadora: NIKE; Tono Soñador: Disney. 
+Dimensiones del tono de voz: Divertido-Serio, Casual-Formal, Irreverente-Respetuoso, Entusiasta-Directo
+Características del tono de voz: adjetivos de las dimensiones
 
 COMPETENCIA:
 1) Identificarlos: directos e indirectos
@@ -110,3 +119,4 @@ COMPETENCIA:
 3) Comparar estrategia comercial y de marketing
 4) Comparar ventajas competitivas y generar estrategia
 
+CANVAS DE ESTRATEGIA DE MARCA:

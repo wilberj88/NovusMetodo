@@ -120,3 +120,12 @@ COMPETENCIA:
 4) Comparar ventajas competitivas y generar estrategia
 
 CANVAS DE ESTRATEGIA DE MARCA:
+1) Info del cliente: vida, problemas y decisiones
+2) Competencia: ¿cuál es el vacío estratégico del mercado? ¿en qué somos innovadores?
+3) Qué ofrecemos: como empresa y como producto.
+4) Nuestros beneficios: racionales + emocionales
+5) Valores: sustantivos
+6) Personalidad de marca: adjetivos
+7) Mensajes clave: historia, propósito, promesa, pitch
+8) Posicionamiento como marca, esencia: 1) audiciencia, 2) descripción producto, 3) beneficios, 4) razones de prueba; 5) solución, para qué en razón y emoción
+

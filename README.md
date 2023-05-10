@@ -44,6 +44,8 @@ Buena práctica de fondo gris (urldata) al cargar imágenes: data:image/svg+xml;
 
 
 Code generation:
+AI Mojo Lenguage: 
+https://www.modular.com/get-started
 YOU.COM
 https://medium.com/data-driven-fiction/you-com-ai-is-the-new-google-chatgpt-midjourney-and-code-writer-combined-3b12b49bfc98
 ChatGPT: 

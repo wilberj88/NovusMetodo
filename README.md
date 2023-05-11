@@ -46,6 +46,9 @@ Metodologies:
 -) Front con TypeScript + React + TwailwindCSS con NextJS: https://platzi.com/clases/5481-react-typescript/57806-creando-una-app-con-react-y-typescript/ 
 Buena práctica de fondo gris (urldata) al cargar imágenes: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjEiLz4=
 
+Diagramas:
+https://app.diagrams.net/
+
 
 Code generation:
 AI Mojo Lenguage: 

@@ -6,6 +6,9 @@ STACKS:
 5) Front: React con TypeScript en NextJS:https://github.com/jonalvarezz/platzi-react-typescript
 6) Python - Tkinker (Youtube: the ultimate introduction to modern GUIs in Python - Clear Code)
 
+SignUp+LogIn:
+https://medium.com/@meetjethwa3/streamlit-app-with-signup-and-login-57e31db29913
+
 DEEP LEARNING MODEL SOURCES:
 1) Hugging Face
 

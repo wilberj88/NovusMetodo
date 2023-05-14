@@ -5,6 +5,7 @@ STACKS:
 4) JavaScript-React-ThreeJS:
 5) Front: React con TypeScript en NextJS:https://github.com/jonalvarezz/platzi-react-typescript
 6) Python - Tkinker (Youtube: the ultimate introduction to modern GUIs in Python - Clear Code)
+7) GitHub Pages - JS-Python: https://platzi.com/clases/7758-web-chatgpt/62476-como-publicar-tu-pagina-web-en-internet/
 
 SignUp+LogIn:
 https://medium.com/@meetjethwa3/streamlit-app-with-signup-and-login-57e31db29913

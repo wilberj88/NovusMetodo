@@ -8,6 +8,9 @@ STACKS:
 7) GitHub Pages - JS-Python: https://platzi.com/clases/7758-web-chatgpt/62476-como-publicar-tu-pagina-web-en-internet/
 8) Low Code: https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
 
+REFERENCES DOCUMENTATION PROCESS:
+1) https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
+
 SignUp+LogIn:
 https://medium.com/@meetjethwa3/streamlit-app-with-signup-and-login-57e31db29913
 

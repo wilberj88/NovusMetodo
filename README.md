@@ -158,3 +158,7 @@ CHATGPT TIPS:
 7. Monitorear y mejorar el rendimiento: Utiliza herramientas de monitoreo de rendimiento para detectar cuellos de botella en el sistema y mejorar el rendimiento. Analiza y utiliza los datos para tomar decisiones informadas y optimizar el rendimiento del software.
 8. Fomentar la cultura de mejora continua: Fomenta una cultura de mejora continua dentro del equipo de desarrollo. Celebra los éxitos, identifica las áreas de mejora y establece planes de acción para abordarlas.
 Al seguir estos pasos, podrás establecer buenas prácticas en todo el ciclo de vida del software en tu empresa y garantizar la calidad, seguridad y eficiencia de los productos desarrollados."
+
+
+Paleta de colores: https://platzi.com/clases/7758-web-chatgpt/62480-anadir-css-a-tu-sitio-web-personalizado/
+www.colorwave.dev

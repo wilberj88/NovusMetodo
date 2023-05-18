@@ -15,6 +15,9 @@ REFERENCES DOCUMENTATION PROCESS:
 Diagramns in JS with ChatGPT:
 https://medium.com/geekculture/create-beautiful-diagrams-with-chatgpt-a91f479cdb27
 
+Automate Emailing:
+https://blog.devgenius.io/email-form-using-python-and-streamlit-sending-emails-with-attachment-using-best-practices-122a525753a
+
 SignUp+LogIn:
 https://medium.com/@meetjethwa3/streamlit-app-with-signup-and-login-57e31db29913
 

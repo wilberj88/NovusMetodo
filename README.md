@@ -11,6 +11,10 @@ STACKS:
 REFERENCES DOCUMENTATION PROCESS:
 1) https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
 
+
+Diagramns in JS with ChatGPT:
+https://medium.com/geekculture/create-beautiful-diagrams-with-chatgpt-a91f479cdb27
+
 SignUp+LogIn:
 https://medium.com/@meetjethwa3/streamlit-app-with-signup-and-login-57e31db29913
 

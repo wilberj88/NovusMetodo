@@ -7,6 +7,7 @@ STACKS:
 6) Python - Tkinker (Youtube: the ultimate introduction to modern GUIs in Python - Clear Code)
 7) GitHub Pages - JS-Python: https://platzi.com/clases/7758-web-chatgpt/62476-como-publicar-tu-pagina-web-en-internet/
 8) Low Code: https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
+9) Python-Pynecone: https://medium.com/codingthesmartway-com-blog/building-web-apps-with-python-has-never-been-easier-get-started-with-pynecone-a9f60c1532c
 
 REFERENCES DOCUMENTATION PROCESS:
 1) https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef

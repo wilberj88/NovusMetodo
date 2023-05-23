@@ -1,3 +1,40 @@
+Categories & Steps by Novus Método:
+
+POR TALENTOS:
+1) Arquitecturas (Book Reference: Clean Architecture)
+2) CodeReview (Pep 8- Pep 20) (Book Reference: HITCH HIKER´S GUIDE TO PYTHON)
+3) Pair Programming
+4) Testing (TDD)
+5) Refactorización 
+6) Formación by Novus Campus
+
+POR PROYECTOS: (Book Reference: HITCH HIKER´S GUIDE TO PYTHON)
+1) Cuál es la lógica; 
+2) Cuáles son las dependencias
+3) Cuáles son las funciones que deben ir en cada módulo
+4) Cómo fluye la data por todo el proyecto (FlowChart)
+5) Cuáles características y funciones se pueden agrupar o separar
+6) Cuál es la estrategia de propiedad intelectual (Book Reference: Intellectual Property Strategy)
+7) Cuál es la estrategia de financiación por etapas (Book Reference: Friends & Family Funding)
+8) Cuál es el canvas de la estrategia de marca 
+
+POR UX: (Book Reference: )
+1) Especificar usuarios, entornos, tareas y metas
+2) Diseñar interacción conceptual y visual
+3) Prototipar maqueteando y probando
+4) Evaluar inspeccionando, indagando y testeando.
+
+POR SISTEMAS DE RECOMENDACIÓN: (Book Reference: RECOMMENDATION SYSTEMS)
+1) Profiling System
+2) Prediction System
+3) Relevancy System
+4) Recommendation System
+5) Personalization System (Architectures: page 109)
+
+
+
+
+
 STACKS:
 1) Python-Streamlit-Firebase: https://medium.com/@goncalorrc/creating-a-python-game-with-streamlit-and-firebase-c84c8772c706
 2) Python-Flask:
@@ -40,6 +77,8 @@ Bibliografía:
 -) Architecting: https://www.snowflake.com/wp-content/uploads/2021/05/OReilly-Report-Architecting-Data-Intensive-SaaS-Applications.pdf
 -) Project Structure: https://medium.com/@helpedbyanerd/how-to-visualize-your-project-structure-with-python-dd0006819b23
 -) API Best Practices: https://moez-62905.medium.com/demystifying-apis-a-comprehensive-guide-to-application-programming-interfaces-in-python-cd3f7628c4f3
+-) Friends & Family Funding:
+-) Clean Architecture:
 
 
 Metodologies: 

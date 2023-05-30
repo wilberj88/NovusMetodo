@@ -49,7 +49,7 @@ STACKS:
 
 REFERENCES DOCUMENTATION PROCESS:
 1) https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
-
+2) https://towardsdatascience.com/writing-design-docs-for-data-pipelines-d49550f95580
 
 Diagramns in JS with ChatGPT:
 https://medium.com/geekculture/create-beautiful-diagrams-with-chatgpt-a91f479cdb27

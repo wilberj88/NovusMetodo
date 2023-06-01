@@ -18,6 +18,7 @@ POR PROYECTOS: (Book Reference: HITCH HIKER´S GUIDE TO PYTHON)
 7) Cuál es la estrategia de propiedad intelectual (Book Reference: Intellectual Property Strategy)
 8) Cuál es la estrategia de financiación por etapas (Book Reference: Friends & Family Funding)
 9) Cuál es el canvas de la estrategia de marca 
+10) Plantilla Analisis post Mortem
 
 POR UX: (Book Reference: )
 1) Especificar usuarios, entornos, tareas y metas

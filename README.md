@@ -47,7 +47,7 @@ STACKS:
 7) GitHub Pages - JS-Python: https://platzi.com/clases/7758-web-chatgpt/62476-como-publicar-tu-pagina-web-en-internet/
 8) Low Code: https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
 9) Python-Pynecone: https://medium.com/codingthesmartway-com-blog/building-web-apps-with-python-has-never-been-easier-get-started-with-pynecone-a9f60c1532c
-10) IA para webs: durable.co, 
+10) IA para webs: durable.co (12usdmes), mixo.io(),
 
 
 REFERENCES DOCUMENTATION PROCESS:

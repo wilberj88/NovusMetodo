@@ -48,7 +48,7 @@ STACKS:
 8) Low Code: https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
 9) Python-Pynecone: https://medium.com/codingthesmartway-com-blog/building-web-apps-with-python-has-never-been-easier-get-started-with-pynecone-a9f60c1532c
 10) IA para webs: durable.co (12usdmes), mixo.io(7usdmes),butternut.ai (20usdmes).
-
+11) Hostinger Webs con IA
 
 REFERENCES DOCUMENTATION PROCESS:
 1) https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef

@@ -64,6 +64,7 @@ SETUP PROCESS:
 LICENSE PROCESS:
 1) Example: https://github.com/dKosarevsky/AI-Talks/blob/main/LICENSE
 2) https://choosealicense.com/
+3) https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project
 
 Diagramns in JS with ChatGPT:
 https://medium.com/geekculture/create-beautiful-diagrams-with-chatgpt-a91f479cdb27

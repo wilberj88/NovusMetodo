@@ -50,10 +50,15 @@ STACKS:
 10) IA para webs: durable.co (12usdmes), mixo.io(7usdmes),butternut.ai (20usdmes).
 11) Hostinger Webs con IA
 
-REFERENCES DOCUMENTATION PROCESS:
+REFERENCES 
+DOCUMENTATION PROCESS:
 1) https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
 2) https://towardsdatascience.com/writing-design-docs-for-data-pipelines-d49550f95580
 3) Automate ReadMe File: https://medium.com/@avra42/automate-github-readme-md-file-to-streamlit-web-app-348eead2eff8
+SETUP PROCESS:
+1) Example: https://github.com/dKosarevsky/AI-Talks/blob/main/setup.py
+LICENSE PROCESS:
+1) Example: https://github.com/dKosarevsky/AI-Talks/blob/main/LICENSE
 
 Diagramns in JS with ChatGPT:
 https://medium.com/geekculture/create-beautiful-diagrams-with-chatgpt-a91f479cdb27

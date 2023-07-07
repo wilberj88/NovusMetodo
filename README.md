@@ -1,5 +1,8 @@
 Categories & Steps by Novus Método:
 
+OpenAIapiKey: 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
+
+
 POR TALENTOS:
 1) Intro Arquitecturas + INFRA Novus Tech (Book Reference: Clean Architecture): Docker + Kubernetes: https://levelup.gitconnected.com/unlocking-the-power-of-containerization-why-data-scientists-need-to-learn-dockers-and-kubernetes-b112456c62fc
 2) CodeReview (Pep 8- Pep 20) (Book Reference: HITCH HIKER´S GUIDE TO PYTHON)

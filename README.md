@@ -63,6 +63,7 @@ SETUP PROCESS:
 2) Icons, Images, Styles references: https://github.com/dKosarevsky/AI-Talks/blob/main/ai_talks/assets/icons/rec_on.gif
 LICENSE PROCESS:
 1) Example: https://github.com/dKosarevsky/AI-Talks/blob/main/LICENSE
+2) https://choosealicense.com/
 
 Diagramns in JS with ChatGPT:
 https://medium.com/geekculture/create-beautiful-diagrams-with-chatgpt-a91f479cdb27

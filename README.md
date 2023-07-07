@@ -60,6 +60,7 @@ DOCUMENTATION PROCESS:
 3) Automate ReadMe File: https://medium.com/@avra42/automate-github-readme-md-file-to-streamlit-web-app-348eead2eff8
 SETUP PROCESS:
 1) Example: https://github.com/dKosarevsky/AI-Talks/blob/main/setup.py
+2) Icons, Images, Styles references: https://github.com/dKosarevsky/AI-Talks/blob/main/ai_talks/assets/icons/rec_on.gif
 LICENSE PROCESS:
 1) Example: https://github.com/dKosarevsky/AI-Talks/blob/main/LICENSE
 

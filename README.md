@@ -84,6 +84,8 @@ https://python.plainenglish.io/top-10-python-gui-libraries-for-modern-developmen
 How to Build Simple ETL Pipelines With GitHub Actions | Towards Data Science
 https://towardsdatascience.com/etl-github-actions-cron-383f618704b6
 
+Image Generation:
+https://medium.com/grabngoinfo/the-ultimate-guide-for-midjourney-parameters-7bdccab3b58a
 
 Bibliografía:
 -) Clean Code: Quality Rules + Naming + Spaces + Comments + Documentation: https://levelup.gitconnected.com/learn-how-to-write-python-clean-code-using-these-3-principles-ed046978e39a

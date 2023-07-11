@@ -157,6 +157,8 @@ Comentarios al Código
 1) Propósito y etapas
 2) Etapa por etapa
 
+Session State in Streamlit:
+https://medium.com/codefile/session-state-in-streamlit-d0f8b406900c
 
 Sam Altman Tips:
 Why: producto que la gente ame. Focus+Intense. No Next week: next 4 hours.

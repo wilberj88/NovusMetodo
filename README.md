@@ -129,6 +129,7 @@ https://app.diagrams.net/
 
 
 Code generation:
+https://asilva.streamlit.app/
 https://artificialcorner.com/gpt-engineer-generate-an-entire-codebase-with-1-prompt-7e98ca368410
 AI Mojo Lenguage: 
 https://www.modular.com/get-started

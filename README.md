@@ -86,6 +86,8 @@ https://towardsdatascience.com/etl-github-actions-cron-383f618704b6
 
 Image Generation:
 https://medium.com/grabngoinfo/the-ultimate-guide-for-midjourney-parameters-7bdccab3b58a
+https://generativeai.pub/heres-another-free-text-to-image-ai-tool-you-should-know-about-676ff083f826
+
 
 Bibliografía:
 -) Clean Code: Quality Rules + Naming + Spaces + Comments + Documentation: https://levelup.gitconnected.com/learn-how-to-write-python-clean-code-using-these-3-principles-ed046978e39a

@@ -52,6 +52,7 @@ STACKS:
 9) Python-Pynecone: https://medium.com/codingthesmartway-com-blog/building-web-apps-with-python-has-never-been-easier-get-started-with-pynecone-a9f60c1532c
 10) IA para webs: durable.co (12usdmes), mixo.io(7usdmes),butternut.ai (20usdmes).
 11) Hostinger Webs con IA
+12) Static Sites: https://betterprogramming.pub/why-you-should-consider-building-static-sites-4bf292688a1f
 
 REFERENCES 
 DOCUMENTATION PROCESS:

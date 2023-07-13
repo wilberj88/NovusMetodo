@@ -75,6 +75,8 @@ https://blog.devgenius.io/email-form-using-python-and-streamlit-sending-emails-w
 
 SignUp+LogIn:
 https://medium.com/@meetjethwa3/streamlit-app-with-signup-and-login-57e31db29913
+Subscription:
+https://github.com/tylerjrichards/st-paywall
 
 DEEP LEARNING MODEL SOURCES:
 1) Hugging Face

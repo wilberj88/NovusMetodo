@@ -131,6 +131,7 @@ https://app.diagrams.net/
 Code generation:
 https://asilva.streamlit.app/
 https://artificialcorner.com/gpt-engineer-generate-an-entire-codebase-with-1-prompt-7e98ca368410
+https://medium.com/data-and-beyond/master-swift-data-visualizations-with-chatgpt-python-streamlit-342bf6d6709e
 AI Mojo Lenguage: 
 https://www.modular.com/get-started
 YOU.COM

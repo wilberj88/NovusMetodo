@@ -53,6 +53,7 @@ STACKS:
 10) IA para webs: durable.co (12usdmes), mixo.io(7usdmes),butternut.ai (20usdmes).
 11) Hostinger Webs con IA
 12) Static Sites: https://betterprogramming.pub/why-you-should-consider-building-static-sites-4bf292688a1f
+13) Flutter in Python: https://medium.com/@tim-krebs/build-flutter-apps-in-python-d8c2fa9df8d2
 
 REFERENCES 
 DOCUMENTATION PROCESS:

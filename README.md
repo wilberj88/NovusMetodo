@@ -81,6 +81,9 @@ https://medium.com/@meetjethwa3/streamlit-app-with-signup-and-login-57e31db29913
 Subscription:
 https://github.com/tylerjrichards/st-paywall
 
+Testing:
+https://python.plainenglish.io/pythons-speaklater-2851ba87d45c
+
 DEEP LEARNING MODEL SOURCES:
 1) Hugging Face
 

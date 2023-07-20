@@ -183,7 +183,7 @@ https://towardsdatascience.com/how-to-validate-openai-gpt-model-performance-with
 
 Generador de páginas web en segundos:
 https://itnext.io/i-built-a-streamlit-app-to-generate-websites-in-seconds-try-it-6cf13eb86192
-
+https://medium.com/databutton/beyond-streamlit-databuttons-revolution-in-ai-app-development-5a625a1343e8
 
 Estructura de Prompts: https://platzi.com/clases/7296-chatgpt/62001-como-hablarle-a-chatgpt-estructura-de-un-prompt/
 Ingredientes: contexto, instrucción, input & output. Tiene que haber mínimo una instrucción, lo demás enriquece. Mejor con audiencia objetivo: "para un niño de 12 años". 

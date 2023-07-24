@@ -70,6 +70,9 @@ LICENSE PROCESS:
 2) https://choosealicense.com/
 3) https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project
 
+AI App Development:
+https://levelup.gitconnected.com/creating-a-web-app-has-never-been-simple-as-today-by-using-langchain-and-streamlit-1fc6597e3ff1
+
 Diagramns in JS with ChatGPT:
 https://medium.com/geekculture/create-beautiful-diagrams-with-chatgpt-a91f479cdb27
 

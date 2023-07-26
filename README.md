@@ -1,6 +1,6 @@
 Categories & Steps by Novus Método:
 
-DAO: Descentralized Autonomous Operation for a Collective Pourpuse
+Despues del Product Market Fit: DAO: Descentralized Autonomous Operation for a Collective Pourpuse
 Token para tomas de decisiones: empleados, usuarios... con resultados en tiempo real
 
 OpenAIapiKey: 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

@@ -4,7 +4,8 @@ Despues del Product Market Fit: DAO: Descentralized Autonomous Operation for a C
 Token para tomas de decisiones: empleados, usuarios... con resultados en tiempo real
 https://daomaker.com/
 
-OpenAIapiKey: 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
+Cripto Stack:
+1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar
 
 
 POR TALENTOS:

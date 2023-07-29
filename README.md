@@ -5,7 +5,7 @@ Token para tomas de decisiones: empleados, usuarios... con resultados en tiempo 
 https://daomaker.com/
 
 Cripto Stack:
-1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar
+1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar + Web Assembly WASM
 
 
 POR TALENTOS:

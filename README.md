@@ -11,7 +11,7 @@ POR TALENTOS:
 1) Intro Arquitecturas + INFRA Novus Tech (Book Reference: Clean Architecture): Docker + Kubernetes: https://levelup.gitconnected.com/unlocking-the-power-of-containerization-why-data-scientists-need-to-learn-dockers-and-kubernetes-b112456c62fc
 2) CodeReview (Pep 8- Pep 20) (Book Reference: HITCH HIKER´S GUIDE TO PYTHON)
 3) Pair Programming
-4) Testing (TDD)
+4) Testing (TDD) (Metadata´s configuration: .toml)
 5) Refactorización 
 6) Formación by Novus Campus
 

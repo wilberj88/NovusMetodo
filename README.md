@@ -8,7 +8,8 @@ App Stack:
 1) Django + Vue + GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
 
 Cripto Stack:
-1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar + Web Assembly WASM
+1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar + Web Assembly WASM + Substrate
+https://platzi.com/clases/3089-rust-blockchain/49163-nuestra-primera-blockchain-con-substrate/
 
 Referentes:
 Testing:

@@ -5,7 +5,7 @@ Token para tomas de decisiones: empleados, usuarios... con resultados en tiempo 
 https://daomaker.com/
 
 App Stack:
-1) Django + Vue: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
+1) Django + Vue + GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
 
 Cripto Stack:
 1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar + Web Assembly WASM

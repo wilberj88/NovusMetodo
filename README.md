@@ -7,6 +7,10 @@ https://daomaker.com/
 Cripto Stack:
 1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar + Web Assembly WASM
 
+Referentes:
+Testing:
+https://github.com/mattflo/WeatherChatAI/blob/main/tests/test_nws_chain.py
+
 
 POR TALENTOS:
 1) Intro Arquitecturas + INFRA Novus Tech (Book Reference: Clean Architecture): Docker + Kubernetes: https://levelup.gitconnected.com/unlocking-the-power-of-containerization-why-data-scientists-need-to-learn-dockers-and-kubernetes-b112456c62fc

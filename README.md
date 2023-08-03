@@ -10,9 +10,12 @@ App Stack:
 Cripto Stack:
 1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar + Web Assembly WASM + Substrate
 https://platzi.com/clases/3089-rust-blockchain/49163-nuestra-primera-blockchain-con-substrate/
+2) ETHEREUM: DAO. trilema entre escalabilidad, seguridad y descenstralización. Están buscando solucionarlo
+3) Solana: resuelve el problema del trilema entre escalabilidad, seguridad y descenstralización no con el Proof of Work, que da seguridad y descentralización con la minería en la red, genera carga computacional e impacta la escalabilidad, ni con el Proof of Stake que reduce la carga computacional al ser determinístico los nodos de validación de transacciones en función de su participaciòn en la red, sino con el Proof of History que tiene en cuenta lo anterior pero también la temporalidad para dar mayor seguridad
+https://platzi.com/clases/2653-solana-developers/44650-que-es-solana/
 
 Referentes:
-Testing:
+Testing: +50.000 transacciones por segundo con 200 nodos.
 https://github.com/mattflo/WeatherChatAI/blob/main/tests/test_nws_chain.py
 
 

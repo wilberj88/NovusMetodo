@@ -268,3 +268,7 @@ Al seguir estos pasos, podrás establecer buenas prácticas en todo el ciclo de 
 
 Paleta de colores: https://platzi.com/clases/7758-web-chatgpt/62480-anadir-css-a-tu-sitio-web-personalizado/
 www.colorwave.dev
+
+Mentor´s Power: https://betterprogramming.pub/the-power-of-mentors-a5d9d66856a5
+
+

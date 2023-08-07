@@ -17,7 +17,7 @@ https://platzi.com/clases/2653-solana-developers/44650-que-es-solana/
 Referentes:
 Testing: +50.000 transacciones por segundo con 200 nodos.
 https://github.com/mattflo/WeatherChatAI/blob/main/tests/test_nws_chain.py
-
+HomeWeb en 3D: https://power-electronics.com/
 
 POR TALENTOS:
 1) Intro Arquitecturas + INFRA Novus Tech (Book Reference: Clean Architecture): Docker + Kubernetes: https://levelup.gitconnected.com/unlocking-the-power-of-containerization-why-data-scientists-need-to-learn-dockers-and-kubernetes-b112456c62fc

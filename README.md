@@ -18,6 +18,7 @@ Referentes:
 Testing: +50.000 transacciones por segundo con 200 nodos.
 https://github.com/mattflo/WeatherChatAI/blob/main/tests/test_nws_chain.py
 HomeWeb en 3D: https://power-electronics.com/
+Streamlit: https://jrpettus-streamlit-buffett-buffett-app-hqw5pq.streamlit.app/
 
 POR TALENTOS:
 1) Intro Arquitecturas + INFRA Novus Tech (Book Reference: Clean Architecture): Docker + Kubernetes: https://levelup.gitconnected.com/unlocking-the-power-of-containerization-why-data-scientists-need-to-learn-dockers-and-kubernetes-b112456c62fc

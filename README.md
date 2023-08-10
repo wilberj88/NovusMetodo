@@ -72,7 +72,8 @@ STACKS:
 12) Static Sites: https://betterprogramming.pub/why-you-should-consider-building-static-sites-4bf292688a1f
 13) Flutter in Python: https://medium.com/@tim-krebs/build-flutter-apps-in-python-d8c2fa9df8d2
 14) Databutton: https://medium.com/databutton/beyond-streamlit-databuttons-revolution-in-ai-app-development-5a625a1343e8
-
+15) R & Python: Using ChatGPT to Translate R Code to Python | by Soner Yıldırım | May, 2023 | Towards Data Science
+https://buff.ly/42byW3Z
 
 REFERENCES 
 DOCUMENTATION PROCESS:

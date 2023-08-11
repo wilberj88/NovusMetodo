@@ -6,6 +6,8 @@ https://daomaker.com/
 
 App Stack:
 1) Django + Vue + GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
+2) Django + React: https://python.plainenglish.io/the-power-of-apis-and-react-b8b3d9d2baf8
+
 
 Cripto Stack:
 1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar + Web Assembly WASM + Substrate

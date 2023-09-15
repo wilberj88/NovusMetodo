@@ -203,6 +203,10 @@ Why: producto que la gente ame. Focus+Intense. No Next week: next 4 hours.
 How: Tech Strategy + Commercial-Growth Strategy
 Who: good team, best parnerts in the world. Hire well, fire better. Control cost is a must. Be frugal.
 
+Revisar IPO:
+-) Google
+-) Uber
+-) ARM 2023
 
 How to Validate OpenAI GPT Model Performance with Text Summarization | by Mark Chen | Apr, 2023 | Towards Data Science
 https://towardsdatascience.com/how-to-validate-openai-gpt-model-performance-with-text-summarization-298978fea764

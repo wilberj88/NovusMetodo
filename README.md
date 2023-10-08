@@ -1,5 +1,18 @@
 Categories & Steps by Novus Método:
 
+
+Types of Business Models:
+1) Saas:
+2) MarketPlace:
+3) Usage
+4) Advertising
+5) Bio
+6) transactional:
+7) Hard tech
+8) enterprise
+9) e-commerce
+
+
 From RoadMap to Funding Stages
 
 Despues del Product Market Fit: DAO: Descentralized Autonomous Operation for a Collective Pourpuse

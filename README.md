@@ -13,7 +13,8 @@ Types of Business Models:
 9) e-commerce
 
 Fundraising´s Plan & Strategy
-
+Plan: Beta by line + 5 first free users by continents + Paid User + Coffe show results
+Strategy: Safe By YC + B2B+B2C Models + CostOfDevOpsbyYear 
 
 From RoadMap to Funding Stages
 

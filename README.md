@@ -12,6 +12,8 @@ Types of Business Models:
 8) enterprise
 9) e-commerce
 
+Fundraising´s Plan & Strategy
+
 
 From RoadMap to Funding Stages
 

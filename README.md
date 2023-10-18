@@ -79,20 +79,21 @@ POR SISTEMAS DE RECOMENDACIÓN: (Book Reference: RECOMMENDATION SYSTEMS)
 
 STACKS:
 1) Python-Streamlit-Firebase: https://medium.com/@goncalorrc/creating-a-python-game-with-streamlit-and-firebase-c84c8772c706
-2) Python-Flask:
-3) Python-Django: https://medium.com/@etirismagazine/web-development-with-python-and-django-2bc7250c0e36 https://medium.com/@dmitrijkumancev571/the-best-github-repositories-for-django-developers-2c3c41088f6a
-4) JavaScript-React-ThreeJS:
-5) Front: React con TypeScript en NextJS:https://github.com/jonalvarezz/platzi-react-typescript
-6) Python - Tkinker (Youtube: the ultimate introduction to modern GUIs in Python - Clear Code)
-7) GitHub Pages - JS-Python: https://platzi.com/clases/7758-web-chatgpt/62476-como-publicar-tu-pagina-web-en-internet/
-8) Low Code: https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
-9) Python-Pynecone: https://medium.com/codingthesmartway-com-blog/building-web-apps-with-python-has-never-been-easier-get-started-with-pynecone-a9f60c1532c
-10) IA para webs: durable.co (12usdmes), mixo.io(7usdmes),butternut.ai (20usdmes).
-11) Hostinger Webs con IA
-12) Static Sites: https://betterprogramming.pub/why-you-should-consider-building-static-sites-4bf292688a1f
-13) Flutter in Python: https://medium.com/@tim-krebs/build-flutter-apps-in-python-d8c2fa9df8d2
-14) Databutton: https://medium.com/databutton/beyond-streamlit-databuttons-revolution-in-ai-app-development-5a625a1343e8
-15) R & Python: Using ChatGPT to Translate R Code to Python | by Soner Yıldırım | May, 2023 | Towards Data Science
+https://cheat-sheet.streamlit.app/
+3) Python-Flask:
+4) Python-Django: https://medium.com/@etirismagazine/web-development-with-python-and-django-2bc7250c0e36 https://medium.com/@dmitrijkumancev571/the-best-github-repositories-for-django-developers-2c3c41088f6a
+5) JavaScript-React-ThreeJS:
+6) Front: React con TypeScript en NextJS:https://github.com/jonalvarezz/platzi-react-typescript
+7) Python - Tkinker (Youtube: the ultimate introduction to modern GUIs in Python - Clear Code)
+8) GitHub Pages - JS-Python: https://platzi.com/clases/7758-web-chatgpt/62476-como-publicar-tu-pagina-web-en-internet/
+9) Low Code: https://blog.devgenius.io/how-i-saved-160k-using-low-code-3dc1fcfdbfef
+10) Python-Pynecone: https://medium.com/codingthesmartway-com-blog/building-web-apps-with-python-has-never-been-easier-get-started-with-pynecone-a9f60c1532c
+11) IA para webs: durable.co (12usdmes), mixo.io(7usdmes),butternut.ai (20usdmes).
+12) Hostinger Webs con IA
+13) Static Sites: https://betterprogramming.pub/why-you-should-consider-building-static-sites-4bf292688a1f
+14) Flutter in Python: https://medium.com/@tim-krebs/build-flutter-apps-in-python-d8c2fa9df8d2
+15) Databutton: https://medium.com/databutton/beyond-streamlit-databuttons-revolution-in-ai-app-development-5a625a1343e8
+16) R & Python: Using ChatGPT to Translate R Code to Python | by Soner Yıldırım | May, 2023 | Towards Data Science
 https://buff.ly/42byW3Z
 
 REFERENCES 

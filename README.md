@@ -22,9 +22,10 @@ Despues del Product Market Fit: DAO: Descentralized Autonomous Operation for a C
 Token para tomas de decisiones: empleados, usuarios... con resultados en tiempo real
 https://daomaker.com/
 
-App Stack:
-1) Django + Vue + GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
-2) Django + React: https://python.plainenglish.io/the-power-of-apis-and-react-b8b3d9d2baf8
+Novus Stacks:
+1) FrontEnd: ReactJS; Backend: Python (Django o Flask); Base de Datos: PostgreSQL en Cloud SQL; Servicios en la Nube: GCP; Desarrollo Móvil: React Native; Estrategia de Integración y Seguridad: API Gateway, Identity Platform o Firebase Authentication, Cloud Endpoints.
+2) Django + Vue + GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
+3) Django + React: https://python.plainenglish.io/the-power-of-apis-and-react-b8b3d9d2baf8
 
 
 Cripto Stack:

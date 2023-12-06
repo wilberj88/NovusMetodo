@@ -28,6 +28,9 @@ Novus Stacks:
 3) Django + React: https://python.plainenglish.io/the-power-of-apis-and-react-b8b3d9d2baf8
 
 
+Contracts SLO:
+https://betterprogramming.pub/so-you-want-to-write-an-slo-c63cad0b8776
+
 Cripto Stack:
 1) Rust -> Dusk (Fintech) - Serum DAAP - Penumbra para interoperar + Web Assembly WASM + Substrate
 https://platzi.com/clases/3089-rust-blockchain/49163-nuestra-primera-blockchain-con-substrate/

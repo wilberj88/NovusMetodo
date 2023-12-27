@@ -27,6 +27,8 @@ Novus Stacks:
 2) Django + Vue + GraphQL: https://blog.devgenius.io/create-a-modern-application-with-django-and-vue-70bc66046f54
 3) Django + React: https://python.plainenglish.io/the-power-of-apis-and-react-b8b3d9d2baf8
 
+Microservices Best Practices:
+https://blog.devgenius.io/build-microservices-with-python-63fd35fa3baa
 
 Contracts SLO:
 https://betterprogramming.pub/so-you-want-to-write-an-slo-c63cad0b8776

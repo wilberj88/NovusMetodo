@@ -15,6 +15,9 @@ Types of Business Models:
 Streamlit Best Practices:
 https://towardsdatascience.com/how-to-build-an-interconnected-multi-page-streamlit-app-3114c313f88f
 
+Streamlit with Supabase:
+https://medium.com/streamlit/connect-your-streamlit-apps-to-supabase-082ca85c71b1
+
 Fundraising´s Plan & Strategy
 Plan: Beta by line + 5 first free users by continents + Paid User + Coffe show results
 Strategy: Safe By YC + B2B+B2C Models + CostOfDevOpsbyYear 

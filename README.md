@@ -1,5 +1,13 @@
 Categories & Steps by Novus Método:
 
+Pitch's elements by Y combinator:
+1) what do you do?
+2) traction
+3) team
+4) unique insights
+5) market size
+6) ask
+
 
 Types of Business Models:
 1) Saas:

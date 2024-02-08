@@ -22,6 +22,7 @@ Types of Business Models:
 
 Streamlit Best Practices:
 https://towardsdatascience.com/how-to-build-an-interconnected-multi-page-streamlit-app-3114c313f88f
+Authentication: https://medium.com/@PropelAuth/streamlit-authentication-8a4d0d68e1f3
 
 Streamlit with Supabase:
 https://medium.com/streamlit/connect-your-streamlit-apps-to-supabase-082ca85c71b1

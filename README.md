@@ -1,5 +1,9 @@
 Categories & Steps by Novus Método:
 
+----
+Change by Amazon Method`s Backward
+---
+
 Pitch's elements by Y combinator:
 1) what do you do?
 2) traction
@@ -44,6 +48,9 @@ Novus Stacks:
 
 Microservices Best Practices:
 https://blog.devgenius.io/build-microservices-with-python-63fd35fa3baa
+
+Arquitectura Visualization: https://medium.com/django-unleashed/visualizing-architecture-with-pythons-diagrams-library-fe178dae2ea9
+
 
 Contracts SLO:
 https://betterprogramming.pub/so-you-want-to-write-an-slo-c63cad0b8776

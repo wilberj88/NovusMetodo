@@ -24,6 +24,9 @@ Types of Business Models:
 8) enterprise
 9) e-commerce
 
+FastAPI for back as a service:
+https://python.plainenglish.io/fastapi-project-setup-with-scalability-in-mind-3daef823ed83
+
 Streamlit Best Practices:
 https://towardsdatascience.com/how-to-build-an-interconnected-multi-page-streamlit-app-3114c313f88f
 Authentication: https://medium.com/@PropelAuth/streamlit-authentication-8a4d0d68e1f3
